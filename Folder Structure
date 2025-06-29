@@ -1,0 +1,6 @@
+screenshot-organizer/
+├── organizer.py
+├── screenshots/           # Source folder with .png/.jpg
+├── sorted/                # Destination folder
+├── requirements.txt
+└── README.md
